@@ -1,4 +1,4 @@
-# SerialToFileDone
+# Serial-Python-Temperatures
 
 Send just temperature data through serial comms.
 Need to edit the port identifier and serial baudrate.
