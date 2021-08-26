@@ -86,6 +86,6 @@ while ser.is_open == True:
         ser.close()
         ser.open();
     else:
-        break;
+        continue;
 else:              
     time.sleep(0.5)
