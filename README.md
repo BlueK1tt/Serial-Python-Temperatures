@@ -1,5 +1,5 @@
 # SerialToFileDone
- ...
+
 Send just temperature data through serial comms.
 Need to edit the port identifier, serial baudrate and create temp.JSON file.
 
