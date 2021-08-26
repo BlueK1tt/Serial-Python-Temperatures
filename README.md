@@ -1,7 +1,7 @@
 # SerialToFileDone
 
 Send just temperature data through serial comms.
-Need to edit the port identifier, serial baudrate and create temp.JSON file.
+Need to edit the port identifier and serial baudrate.
 
 After that you can just run the python file in command line to read temperature.
 When run, you can see couple reoccuring things in the terminal where file runs: ID, Time, Temperature
