@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/serialel_bluekitt.egg-info/PKG-INFO
+src/serialel_bluekitt.egg-info/SOURCES.txt
+src/serialel_bluekitt.egg-info/dependency_links.txt
+src/serialel_bluekitt.egg-info/top_level.txt

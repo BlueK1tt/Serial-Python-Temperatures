@@ -1,0 +1,6 @@
+[build-system]
+requires = [
+    "pyserial",
+    "datetime"
+]
+build-backend = "setuptools.build_meta"
