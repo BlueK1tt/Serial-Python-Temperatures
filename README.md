@@ -4,7 +4,7 @@ Send just temperature data through serial comms.
  
 > Example "raw" data coming through serial: ```22.75 ``` 
 
-Need to edit the port identifier and serial baudrate.
+Need to edit the COM port identifier and serial baudrate based on the situation.
 
 After that you can just run the python file in command line to read temperature.
 When run, you can see couple reoccuring things in the terminal where file runs: ID, Time, Temperature
