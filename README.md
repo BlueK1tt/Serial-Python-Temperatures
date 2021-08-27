@@ -2,7 +2,7 @@
 
 Send just temperature data through serial comms.
  
-``` Example "raw" data coming through serial: 22.75 ```
+> Example "raw" data coming through serial:``` 22.75 ``` 
 
 Need to edit the port identifier and serial baudrate.
 
